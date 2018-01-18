@@ -1,0 +1,27 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "web-toolbar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "web-toolbar:toggle"
+            },
+            {
+              "label": "Run Server",
+              "command": "web-toolbar:run"
+            },
+            {
+              "label": "Stop Server",
+              "command": "web-toolbar:stop"
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}

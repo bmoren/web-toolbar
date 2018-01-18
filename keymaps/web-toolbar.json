@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-w": "web-toolbar:toggle",
+    "ctrl-alt-r": "web-toolbar:start",
+    "ctrl-alt-s": "web-toolbar:stop"
+  }
+}

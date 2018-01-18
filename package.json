@@ -1,0 +1,24 @@
+{
+  "name": "web-toolbar",
+  "main": "./lib/web-toolbar",
+  "version": "0.0.0",
+  "description": "A small toolbar for running webdev sketches & other helpful web information",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "web-toolbar:toggle",
+      "web-toolbar:start",
+      "web-toolbar:stop"
+    ]
+  },
+  "repository": "https://github.com/bmoren/web-toolbar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "portfinder": "^1.0.13",
+    "readdirp": "^2.1.0"
+  }
+}

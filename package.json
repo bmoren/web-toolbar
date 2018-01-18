@@ -1,7 +1,7 @@
 {
   "name": "web-toolbar",
   "main": "./lib/web-toolbar",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A small toolbar for running webdev sketches & other helpful web information",
   "keywords": [],
   "activationCommands": {
